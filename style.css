@@ -18,3 +18,7 @@
     background-color: teal;
     color: white;
 }
+div a {
+    color: white;
+    text-decoration: none;
+}
